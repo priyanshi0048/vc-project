@@ -1,3 +1,7 @@
 This is my first git project
 Edit After Cloning 
+HEAD
 change in main branch
+Changes in the reperotary 
+Change made in feature1 branch
+feature1
